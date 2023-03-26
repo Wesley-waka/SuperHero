@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Super Heros API responsible for performing the CRUD operations
 
-Things you may want to cover:
+# ERD DIAGRAM
 
-* Ruby version
+# Configuration
 
-* System dependencies
+The following project is not yet deployed thus will run on your local machine
+Open up the terminal and type "rails s"-to start your rails server
+Follow the routes as displayed in the controllers folder to perform the CRUD operations
+Data is already seeded into the database you can use to perform the CRUD operations
 
-* Configuration
+# Author
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Pizza Restaurant by Wesley Waka
