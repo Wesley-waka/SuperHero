@@ -14,4 +14,4 @@ Data is already seeded into the database you can use to perform the CRUD operati
 
 # Author
 
-Pizza Restaurant by Wesley Waka
+Super Heros by Wesley Waka
